@@ -1,0 +1,47 @@
+1 : E8:DB:84:ED:77:49
+2 : 24:d7:eb:c1:ca:71
+3 : E0:98:06:05:E3:15
+
+04:83:08:52:08:9C 3
+04:83:08:52:0A:18 1
+04:83:08:52:9A:24 2
+04:83:08:52:A6:50 4
+
+
+Selected strongest RSSI for 'Kviknet-3E50': -62 dBm
+Got message from: 04:83:08:52:08:9C, NR = -46, RSSI = -45
+Checking 1 neighbors for match
+Got message from: 04:83:08:52:0A:18, NR = -61, RSSI = -23
+Checking 2 neighbors for match
+[HOP] Selected via neighbor: 04:83:08:52:08:9C
+ sr: -62, nr: -46, sn: -45   
+[HOP] Direct Score 64, Via Score 45
+[HOP] Selected via neighbor: 04:83:08:52:0A:18
+ sr: -62, nr: -61, sn: -23   
+[HOP] Direct Score 64, Via Score 42
+[HOP] Selected via neighbor: 04:83:08:52:0A:18 (score: 42 dBm)
+SyncTimer task running
+[HOP] Selected via neighbor: 04:83:08:52:0A:18 
+
+
+
+
+Unicast peer added for 00:00:00:00:00:00
+Selected strongest RSSI for 'Kviknet-3E50': -59 dBm
+Got message from: 04:83:08:52:A6:50, NR = -84, RSSI = -57
+Checking 1 neighbors for match
+Got message from: 04:83:08:52:0A:18, NR = -60, RSSI = -59
+Checking 2 neighbors for match
+Got message from: 04:83:08:52:08:9C, NR = -66, RSSI = -58
+Checking 3 neighbors for match
+Got message from: 04:83:08:52:A6:50, NR = -84, RSSI = -56
+Got message from: 04:83:08:52:0A:18, NR = -60, RSSI = -59
+Got message from: 04:83:08:52:0A:18, NR = -60, RSSI = -60
+[HOP] Selected via neighbor: 04:83:08:52:A6:50
+ sr: -59, nr: -84, sn: -56   
+[HOP] Selected via neighbor: 04:83:08:52:0A:18
+ sr: -59, nr: -60, sn: -60   
+[HOP] Selected via neighbor: 04:83:08:52:08:9C
+ sr: -59, nr: -66, sn: -58   
+[HOP] Selected direct to router (RSSI: -59 dBm)
+SyncTimer task running

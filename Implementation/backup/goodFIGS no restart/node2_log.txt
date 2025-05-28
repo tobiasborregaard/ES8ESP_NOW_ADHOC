@@ -1,0 +1,68 @@
+2025-05-24T22:46:04.684229 [node2] [SYNC] Net Time = -125807704 µs | Attempt 5
+2025-05-24T22:46:14.684258 [node2] [SYNC] Net Time = -115798575 µs | Attempt 6
+2025-05-24T22:46:24.685002 [node2] [SYNC] Net Time = -105806305 µs | Attempt 7
+2025-05-24T22:46:34.684966 [node2] [SYNC] Net Time = -95806358 µs | Attempt 8
+2025-05-24T22:46:44.684666 [node2] [SYNC] Net Time = -85804754 µs | Attempt 9
+2025-05-24T22:46:54.684917 [node2] [SYNC] Net Time = -75805312 µs | Attempt 10
+2025-05-24T22:47:04.685176 [node2] [SYNC] Net Time = -65808253 µs | Attempt 11
+2025-05-24T22:47:14.685083 [node2] [SYNC] Net Time = -55807951 µs | Attempt 12
+2025-05-24T22:47:24.685319 [node2] [SYNC] Net Time = -45807932 µs | Attempt 13
+2025-05-24T22:47:34.685198 [node2] [SYNC] Net Time = -35808546 µs | Attempt 14
+2025-05-24T22:47:44.685462 [node2] [SYNC] Net Time = -25808146 µs | Attempt 15
+2025-05-24T22:47:54.685679 [node2] [SYNC] Net Time = -15806693 µs | Attempt 16
+2025-05-24T22:48:04.685695 [node2] [SYNC] Net Time = -5806281 µs | Attempt 17
+2025-05-24T22:48:14.685817 [node2] [SYNC] Net Time = 4191896 µs | Attempt 18
+2025-05-24T22:48:24.686093 [node2] [SYNC] Net Time = 14190992 µs | Attempt 19
+2025-05-24T22:48:34.686140 [node2] [SYNC] Net Time = 24190911 µs | Attempt 20
+2025-05-24T22:48:44.686214 [node2] [SYNC] Net Time = 34193868 µs | Attempt 21
+2025-05-24T22:48:54.686270 [node2] [SYNC] Net Time = 44192429 µs | Attempt 22
+2025-05-24T22:49:04.686328 [node2] [SYNC] Net Time = 54190628 µs | Attempt 23
+2025-05-24T22:49:14.686630 [node2] [SYNC] Net Time = 64190546 µs | Attempt 24
+2025-05-24T22:49:24.686784 [node2] [SYNC] Net Time = 74190432 µs | Attempt 25
+2025-05-24T22:49:34.687369 [node2] [SYNC] Net Time = 84190350 µs | Attempt 26
+2025-05-24T22:49:44.687448 [node2] [SYNC] Net Time = 94190260 µs | Attempt 27
+2025-05-24T22:49:54.687612 [node2] [SYNC] Net Time = 104190186 µs | Attempt 28
+2025-05-24T22:50:04.687344 [node2] [SYNC] Net Time = 114190760 µs | Attempt 29
+2025-05-24T22:50:14.687466 [node2] [SYNC] Net Time = 124191701 µs | Attempt 30
+2025-05-24T22:50:24.687802 [node2] [SYNC] Net Time = 134191124 µs | Attempt 31
+2025-05-24T22:50:34.687736 [node2] [SYNC] Net Time = 144192052 µs | Attempt 32
+2025-05-24T22:50:44.687892 [node2] [SYNC] Net Time = 154193697 µs | Attempt 33
+2025-05-24T22:50:54.688085 [node2] [SYNC] Net Time = 164189609 µs | Attempt 34
+2025-05-24T22:51:04.688207 [node2] [SYNC] Net Time = 174189525 µs | Attempt 35
+2025-05-24T22:51:14.688148 [node2] [SYNC] Net Time = 184189792 µs | Attempt 36
+2025-05-24T22:51:24.688411 [node2] [SYNC] Net Time = 194190752 µs | Attempt 37
+2025-05-24T22:51:34.688625 [node2] [SYNC] Net Time = 204189251 µs | Attempt 38
+2025-05-24T22:51:44.688569 [node2] [SYNC] Net Time = 214192603 µs | Attempt 39
+2025-05-24T22:51:54.688764 [node2] [SYNC] Net Time = 224191314 µs | Attempt 40
+2025-05-24T22:52:02.022373 [node2] ets Jul 29 2019 12:21:46
+2025-05-24T22:52:02.022487 [node2] 
+2025-05-24T22:52:02.027841 [node2] rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+2025-05-24T22:52:02.030498 [node2] configsip: 0, SPIWP:0xee
+2025-05-24T22:52:02.036100 [node2] clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+2025-05-24T22:52:02.038802 [node2] mode:DIO, clock div:2
+2025-05-24T22:52:02.041591 [node2] load:0x3fff0030,len:1372
+2025-05-24T22:52:02.041743 [node2] ho 0 tail 12 room 4
+2025-05-24T22:52:02.044377 [node2] load:0x40078000,len:13544
+2025-05-24T22:52:02.047165 [node2] ho 0 tail 12 room 4
+2025-05-24T22:52:02.049918 [node2] load:0x40080400,len:4
+2025-05-24T22:52:02.050097 [node2] load:0x40080404,len:3008
+2025-05-24T22:52:02.053450 [node2] entry 0x4008057c
+2025-05-24T22:52:02.335651 [node2] I (327) wifi:wifi driver task: 3ffbde98, prio:23, stack:6656, core=0
+2025-05-24T22:52:02.341354 [node2] I (327) wifi:wifi firmware version: 48ea317a7
+2025-05-24T22:52:02.344084 [node2] I (327) wifi:wifi certification version: v7.0
+2025-05-24T22:52:02.349526 [node2] I (327) wifi:config NVS flash: enabled
+2025-05-24T22:52:02.352326 [node2] I (327) wifi:config nano formatting: disabled
+2025-05-24T22:52:02.357894 [node2] I (337) wifi:Init data frame dynamic rx buffer num: 32
+2025-05-24T22:52:02.360768 [node2] I (337) wifi:Init static rx mgmt buffer num: 5
+2025-05-24T22:52:02.366343 [node2] I (347) wifi:Init management short buffer num: 32
+2025-05-24T22:52:02.369185 [node2] I (347) wifi:Init dynamic tx buffer num: 32
+2025-05-24T22:52:02.374589 [node2] I (357) wifi:Init static rx buffer size: 1600
+2025-05-24T22:52:02.377543 [node2] I (357) wifi:Init static rx buffer num: 10
+2025-05-24T22:52:02.382524 [node2] I (357) wifi:Init dynamic rx buffer num: 32
+2025-05-24T22:52:02.451066 [node2] I (437) wifi:mode : sta (04:83:08:52:0a:18)
+2025-05-24T22:52:02.453799 [node2] I (437) wifi:enable tsf
+2025-05-24T22:52:02.457340 [node2] I (447) ESPNOW: espnow [version: 2.0] init
+2025-05-24T22:52:02.552260 [node2] Starting Wi-Fi scan for SSID: Linksys00159
+2025-05-24T22:52:04.552890 [node2] Found match: Linksys00159, RSSI = -59
+2025-05-24T22:52:04.556063 [node2] Selected strongest RSSI for 'Linksys00159': -59 dBm
+2025-05-24T22:52:04.558195 [node2] Hello sent

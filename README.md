@@ -1,3 +1,5 @@
 # ES8ESP_NOW_ADHOC
+Repository is under clean up crude file locations structuring
 
-Filling in later.
+**Repository Contains Simulation and Implementation**
+

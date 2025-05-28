@@ -1,0 +1,8 @@
+- fix fspl and add loss in link budget 
+- add missing functionalities
+- test esp32 and make a regression on fit
+- last seen as timer setter
+- send rssi to router and id in broadcast
+- noise in antenna and receiver
+- half duplex
+- collision calculation

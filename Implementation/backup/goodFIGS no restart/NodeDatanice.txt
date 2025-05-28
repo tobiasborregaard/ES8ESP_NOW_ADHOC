@@ -1,0 +1,15 @@
+Node 1:
+  Samples         : 11
+  Avg Interval    : 10.000 s
+  Interval StdDev : 0.000 s
+  Min/Max         : 10.000 s / 10.000 s
+Node 2:
+  Samples         : 12
+  Avg Interval    : 10.000 s
+  Interval StdDev : 0.000 s
+  Min/Max         : 10.000 s / 10.000 s
+Node 3:
+  Samples         : 12
+  Avg Interval    : 10.000 s
+  Interval StdDev : 0.000 s
+  Min/Max         : 10.000 s / 10.000 s

@@ -1,0 +1,37 @@
+[
+  {
+    "room": "FAMILY",
+    "x": 522,
+    "y": 242
+  },
+  {
+    "room": "MASTER SUITE",
+    "x": 103,
+    "y": 197
+  },
+  {
+    "room": "KITCHEN",
+    "x": 1009,
+    "y": 190
+  },
+  {
+    "room": "GARAGE",
+    "x": 933,
+    "y": 695
+  },
+  {
+    "room": "BEDROOM 2",
+    "x": 119,
+    "y": 646
+  },
+  {
+    "room": "BEDROOM 3",
+    "x": 335,
+    "y": 670
+  },
+  {
+    "room": "Laundry",
+    "x": 1008,
+    "y": 371
+  }
+]

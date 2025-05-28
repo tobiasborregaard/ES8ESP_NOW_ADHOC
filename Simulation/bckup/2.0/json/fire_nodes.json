@@ -1,0 +1,73 @@
+[
+  {
+    "room": "Bedroom 1",
+    "x": 436,
+    "y": 820
+  },
+  {
+    "room": "Master Bedroom",
+    "x": 379,
+    "y": 537
+  },
+  {
+    "room": "Walk-in Closet",
+    "x": 262,
+    "y": 668
+  },
+  {
+    "room": "Bathroom 2",
+    "x": 508,
+    "y": 393
+  },
+  {
+    "room": "Entrance",
+    "x": 671,
+    "y": 240
+  },
+  {
+    "room": "Living Room",
+    "x": 643,
+    "y": 575
+  },
+  {
+    "room": "Kitchen",
+    "x": 935,
+    "y": 355
+  },
+
+  {
+    "room": "Bathroom 1",
+    "x": 1201,
+    "y": 473
+  },
+  {
+    "room": "Office",
+    "x": 1137,
+    "y": 214
+  },
+  {
+    "room": "Hallway",
+    "x": 1326,
+    "y": 338
+  },
+  {
+    "room": "Bedroom 2",
+    "x": 1357,
+    "y": 208
+  },
+  {
+    "room": "Bedroom 3",
+    "x": 1634,
+    "y": 216
+  },
+  {
+    "room": "Bedroom 5",
+    "x": 1382,
+    "y": 467
+  },
+  {
+    "room": "Bedroom 4",
+    "x": 1640,
+    "y": 464
+  }
+]

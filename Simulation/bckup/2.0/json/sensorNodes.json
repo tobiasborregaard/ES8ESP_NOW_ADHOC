@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Bedroom 1_436_820",
+    "room": "Bedroom 1",
+    "x": 436,
+    "y": 820,
+    "room_id": 5,
+    "room_area_m2": 13.51,
+    "type": "sensor"
+  },
+  {
+    "id": "Master Bedroom_379_537",
+    "room": "Master Bedroom",
+    "x": 379,
+    "y": 537,
+    "room_id": 7,
+    "room_area_m2": 20.48,
+    "type": "sensor"
+  },
+  {
+    "id": "Entrance_671_240",
+    "room": "Entrance",
+    "x": 671,
+    "y": 240,
+    "room_id": 10,
+    "room_area_m2": 14.7,
+    "type": "sensor"
+  },
+  {
+    "id": "Living Room_643_575",
+    "room": "Living Room",
+    "x": 643,
+    "y": 575,
+    "room_id": 11,
+    "room_area_m2": 83.5,
+    "type": "sensor"
+  },
+  {
+    "id": "Kitchen_935_355",
+    "room": "Kitchen",
+    "x": 935,
+    "y": 355,
+    "room_id": 11,
+    "room_area_m2": 83.5,
+    "type": "sensor"
+  },
+  {
+    "id": "Hallway_1326_338",
+    "room": "Hallway",
+    "x": 1326,
+    "y": 338,
+    "room_id": 11,
+    "room_area_m2": 83.5,
+    "type": "sensor"
+  },
+  {
+    "id": "Office_1137_214",
+    "room": "Office",
+    "x": 1137,
+    "y": 214,
+    "room_id": 3,
+    "room_area_m2": 7.2,
+    "type": "sensor"
+  },
+  {
+    "id": "Bedroom 2_1357_208",
+    "room": "Bedroom 2",
+    "x": 1357,
+    "y": 208,
+    "room_id": 6,
+    "room_area_m2": 13.12,
+    "type": "sensor"
+  },
+  {
+    "id": "Bedroom 3_1634_216",
+    "room": "Bedroom 3",
+    "x": 1634,
+    "y": 216,
+    "room_id": 8,
+    "room_area_m2": 15.32,
+    "type": "sensor"
+  },
+  {
+    "id": "Bedroom 5_1382_467",
+    "room": "Bedroom 5",
+    "x": 1382,
+    "y": 467,
+    "room_id": 9,
+    "room_area_m2": 12.82,
+    "type": "sensor"
+  },
+  {
+    "id": "Bedroom 4_1640_464",
+    "room": "Bedroom 4",
+    "x": 1640,
+    "y": 464,
+    "room_id": 2,
+    "room_area_m2": 15.25,
+    "type": "sensor"
+  },
+    {
+    "id": "router",
+    "room": "Kitchen",
+    "x": 1125,
+    "y": 555,
+    "room_id": 11,
+   "room_area_m2": 83.5,
+    "type": "router"
+  }
+]

@@ -1,0 +1,4 @@
+2025-05-24T22:30:24.062172 [node1] [SYNC] Net Time = 29240358 µs | Attempt 4
+2025-05-24T22:30:34.052295 [node1] [SYNC] Net Time = 49219420 µs | Attempt 5
+2025-05-24T22:30:44.052355 [node1] [SYNC] Net Time = 59222349 µs | Attempt 6
+2025-05-24T22:30:54.062596 [node1] [SYNC] Net Time = 59239895 µs | Attempt 7

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Bedroom 1_444_839",
+    "room": "08:9C",
+    "x": 444,
+    "y": 839,
+    "room_id": 2762,
+    "room_area_m2": 192.0,
+    "type": "sensor"
+  },
+  {
+    "id": "Router_285_102",
+    "room": "Router",
+    "x": 285,
+    "y": 102,
+    "room_id": 2762,
+    "room_area_m2": 192.0,
+    "type": "Router"
+  },
+  {
+    "id": "Living Room_533_325",
+    "room": "A6:50",
+    "x": 533,
+    "y": 325,
+    "room_id": 2762,
+    "room_area_m2": 192.0,
+    "type": "sensor"
+  },
+  
+  {
+    "id": "Kitchen_1117_766",
+    "room": "9A:24",
+    "x": 1117,
+    "y": 766,
+    "room_id": 2762,
+    "room_area_m2": 192.0,
+    "type": "sensor"
+  },
+  
+  {
+    "id": "Office_1013_219",
+    "room": "0A:18",
+    "x": 1013,
+    "y": 219,
+    "room_id": 2762,
+    "room_area_m2": 192.0,
+    "type": "sensor"
+  }
+  
+]

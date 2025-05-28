@@ -1,0 +1,74 @@
+[
+  {
+    "id": "FAMILY_487_407",
+    "room": "FAMILY",
+    "x": 487,
+    "y": 407,
+    "room_id": 12,
+    "room_area_m2": 12.5,
+    "type": "sensor"
+  },
+  {
+    "id": "KITCHEN_909_190",
+    "room": "KITCHEN",
+    "x": 909,
+    "y": 190,
+    "room_id": 12,
+    "room_area_m2": 12.5,
+    "type": "sensor"
+  },
+  {
+    "id": "MASTER SUITE_103_197",
+    "room": "MASTER SUITE",
+    "x": 103,
+    "y": 197,
+    "room_id": 9,
+    "room_area_m2": 3.83,
+    "type": "sensor"
+  },
+  {
+    "id": "GARAGE_933_695",
+    "room": "GARAGE",
+    "x": 933,
+    "y": 695,
+    "room_id": 13,
+    "room_area_m2": 11.45,
+    "type": "sensor"
+  },
+  {
+    "id": "BEDROOM 2_110_646",
+    "room": "BEDROOM 2",
+    "x": 110,
+    "y": 646,
+    "room_id": 8,
+    "room_area_m2": 2.25,
+    "type": "sensor"
+  },
+  {
+    "id": "BEDROOM 3_335_670",
+    "room": "BEDROOM 3",
+    "x": 335,
+    "y": 670,
+    "room_id": 2,
+    "room_area_m2": 2.44,
+    "type": "sensor"
+  },
+  {
+    "id": "Laundry_1008_371",
+    "room": "Laundry",
+    "x": 1008,
+    "y": 371,
+    "room_id": 3,
+    "room_area_m2": 0.87,
+    "type": "sensor"
+  },
+    {
+    "id": "ROUTER_662_92",
+    "room": "FAMILY Router",
+    "x": 662,
+    "y": 100,
+    "room_id": 12,
+    "room_area_m2": 12.5,
+    "type": "router"
+  }
+]
